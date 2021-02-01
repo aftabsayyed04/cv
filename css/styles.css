@@ -1,6 +1,8 @@
 body{
     background-color:#EAF6F6;
 }
+img{
+    border-radius: 100%;
 hr{
     height: 0px;
     width:7%;
@@ -15,7 +17,7 @@ h3{
     color: #66BFBF;
 }
 tr{
-    text-align: left;
+    text-align: center;
 }
 a{
     text-decoration:none;
