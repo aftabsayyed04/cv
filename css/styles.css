@@ -1,13 +1,13 @@
 body{
-    background-color:#EAF6F6;
+    background-color: #EAF6F6;
 }
 img{
     border-radius: 100%;
 hr{
     height: 0px;
-    width:7%;
+    width: 7%;
     border-style: dotted none none;
-    border-color: gray;
+    border-color: yellow;
     border-width: 7px;
 }
 h1{
@@ -20,5 +20,5 @@ tr{
     text-align: center;
 }
 a{
-    text-decoration:none;
+    text-decoration: none;
 }
